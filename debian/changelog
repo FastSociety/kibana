@@ -1,3 +1,9 @@
+kibana3 (3.0.3-5) unstable; urgency=low
+
+  * BugFix: Errything installed (wrong) errywhereeeee
+
+ -- Fastsociety Ops <ops@fastsociety.com>  Fri, 06 Sep 2013 18:05:00 -0400
+
 kibana3 (3.0.3-4) unstable; urgency=low
 
   * Set logstash.json as the default dashboard
