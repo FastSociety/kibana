@@ -1,6 +1,11 @@
+kibana3 (3.0.3-2) unstable; urgency=low
+
+  * BugFix: config.js was installed and linked in the wrong place
+
+ -- Fastsociety Ops <ops@fastsociety.com>  Fri, 06 Sep 2013 16:52:00 -0400
+
 kibana3 (3.0.3-1) unstable; urgency=low
 
   * Initial packaging
 
  -- Fastsociety Ops <ops@fastsociety.com>  Fri, 06 Sep 2013 16:36:00 -0400
- 
