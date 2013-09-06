@@ -5,5 +5,5 @@ panels /usr/share/kibana3/panels
 partials /usr/share/kibana3/partials
 sample /usr/share/kibana3/sample
 vendor /usr/share/kibana3/vendor
-config.js /etc/kibana3
-index.html /usr/share/kibana3/index.html
+config.js /usr/share/kibana3
+index.html /usr/share/kibana3

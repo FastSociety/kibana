@@ -1,3 +1,9 @@
+kibana3 (3.0.3-3) unstable; urgency=low
+
+  * Turns out linking everywhere is just a mess. leaving config.js in app dir.
+
+ -- Fastsociety Ops <ops@fastsociety.com>  Fri, 06 Sep 2013 17:12:00 -0400
+
 kibana3 (3.0.3-2) unstable; urgency=low
 
   * BugFix: config.js was installed and linked in the wrong place
