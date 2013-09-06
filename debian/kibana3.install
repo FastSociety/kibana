@@ -1,0 +1,9 @@
+common /usr/share/kibana3/common
+dashboards /usr/share/kibana3/dashboards
+js /usr/share/kibana3/js
+panels /usr/share/kibana3/panels
+partials /usr/share/kibana3/partials
+sample /usr/share/kibana3/sample
+vendor /usr/share/kibana3/vendor
+config.js /etc/kibana3.config.js
+index.html /usr/share/kibana3/index.html
