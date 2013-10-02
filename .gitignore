@@ -1,2 +1,4 @@
 node_modules
 .project
+.aws-config.json
+dist
